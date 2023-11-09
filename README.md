@@ -19,11 +19,17 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 num1 = int(input())
+
 num2 = int(input())
+
 temp = num2
+
 num2 = num1
+
 num1 = temp
+
 print("Number 1:", num1)
+
 print("Number 2:", num2)
 
 
