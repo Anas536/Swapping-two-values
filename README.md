@@ -17,21 +17,20 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+
 ## PROGRAM:
+```
+PROGRAM:
 num1 = int(input())
-
 num2 = int(input())
-
 temp = num2
-
 num2 = num1
-
 num1 = temp
-
 print("Number 1:", num1)
-
 print("Number 2:", num2)
-
+```
+## OUTPUT:
+![Screenshot 2023-11-09 111344](https://github.com/Anas536/Swapping-two-values/assets/139841834/029748e8-3d00-4b21-b85b-ce57db146f95)
 
 
 ## RESULT:
